@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to bottom right,black,#000);
+}
+div.eclipse{
+    position:10;
+    z-index: inherit 10;
+    width:300px;
+    height: 300px;
+    margin: 100px;
+    border-radius: 150px;
+    background-color:rgb(28,28,8);
+    box-shadow: inset 1px 1px 60px 0px #585858,
+    -1px -1px 60px 5px #58523c,-1px -1px 60px 40px #fff;
+}
+
